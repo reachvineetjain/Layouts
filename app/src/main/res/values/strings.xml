@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Layouts</string>
     <string name="action_settings">Settings</string>
+    <string name="toField">To</string>
+    <string name="message">Message</string>
+    <string name="to">To</string>
+    <string name="msg">Message</string>
+    <string name="send">Send</string>
 </resources>

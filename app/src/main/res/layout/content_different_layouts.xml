@@ -24,6 +24,7 @@
         android:id="@+id/button"
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
+        android:onClick="callNewScreen"
          />
 
     <Button
@@ -34,6 +35,7 @@
         android:layout_toRightOf="@id/button"
         android:layout_alignBottom="@+id/button"
         android:layout_marginLeft="20dp"
+        android:onClick="callNewScreen"
          />
 
 </RelativeLayout>
