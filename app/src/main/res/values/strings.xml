@@ -7,4 +7,12 @@
     <string name="msg">Message</string>
     <string name="send">Send</string>
     <string name="enter_email_address">Enter Email Address</string>
+    <string-array name="spinner_values">
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Badminton</item>
+        <item>Tennis</item>
+        <item>Chess</item>
+    </string-array>
 </resources>

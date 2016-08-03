@@ -16,6 +16,7 @@
         android:layout_height="wrap_content"
         android:text="@string/toField"
         android:id="@+id/textView3"
+        android:textSize="20sp"
         android:layout_row="0"
         android:layout_column="0" />
 
@@ -44,8 +45,10 @@
         android:layout_height="wrap_content"
         android:layout_row="0"
         android:layout_columnSpan="2"
+        android:textSize="20sp"
         android:layout_gravity="center_horizontal"
         android:text="Send"
+        android:onClick="callNewScreen"
         />
 
 </GridLayout>

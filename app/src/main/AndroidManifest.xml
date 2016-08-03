@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".LinearLayout" />
-        <activity android:name=".GridLayout"></activity>
+        <activity android:name=".GridLayout" />
+        <activity android:name=".VariousWidgets"></activity>
     </application>
 
 </manifest>
